@@ -1,4 +1,12 @@
 
+h1 {
+  color: white;
+  font-size: 40px;
+}
+.fancy-button {
+  color: white;
+  background-color: black;
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
